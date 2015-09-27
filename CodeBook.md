@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Coursera course code book
 
 ## Raw data
-The original dataset comes from smartphone accelerometers. This data has already been processed using several signal processing techniques.
+The original dataset comes from Samsung smartphone accelerometers. This data has already been processed using several signal processing techniques.
 
 More information can be found from the website where the data was retrieved :
 

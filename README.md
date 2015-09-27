@@ -2,8 +2,9 @@
 Project for the "Getting and Cleaning Data" course on Coursera
 
 
-## run_analysys.R
-When sourced this script, processeses the Samsung accelerometer data and generates a tidy data file named "uci_gar_tidy_data.txt". The Samsung data needs to be in the working directory and be containted in the original "UCI HAR Dataset" folder.
+## run_analysis.R
+When sourced this script, processes the Samsung accelerometer data and generates a tidy data file named "uci_gar_tidy_data.txt". 
+The Samsung data needs to be in the working directory and be containted in the original "UCI HAR Dataset" folder.
 
 ### Tidy data generation steps
 1. Merge training and test data sets
